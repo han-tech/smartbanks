@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378449324320",
+    "firebase_url": "https://smart-banks.firebaseio.com",
+    "project_id": "smart-banks",
+    "storage_bucket": "smart-banks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378449324320:android:840e77ac2bf55b10",
+        "android_client_info": {
+          "package_name": "xyz.sixbot.smartbanks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378449324320-5tahp39sgjg6p6jkl8fluu5op5jnb3en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9oTqhcdFQAPzEmkiFRJdNrnzV20CbNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378449324320-5tahp39sgjg6p6jkl8fluu5op5jnb3en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
